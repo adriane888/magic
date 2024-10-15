@@ -1,0 +1,2 @@
+# magic
+Personal Project
